@@ -1,0 +1,28 @@
+                
+
+
+               
+
+
+
+
+                #############################################################################################################
+                # COMANDO                            DESCRIPCIÓN                                                            #  
+                #                                                                                                           #
+                # / -------------------------------> Ubicarse en el directorio raíz                                         # 
+                # aqui ----------------------------> Mover ficheros seleccionados                                           # 
+                # ayuda ---------------------------> Mostrar información sobre el funcionamiento del programa               # 
+                # cd ------------------------------> Ubicarse en el directorio personal                                     # 
+                # cd.. ----------------------------> Retornar al directorio anterior                                        # 
+                # copiar.todo ---------------------> Seleccionar todo lo contenido en el directorio actual                  # 
+                # copiar.<tipo de fichero> --------> Seleccionar los ficheros que correspondan al tipo de fichero ingresado #
+                # copiar,<fichero1>,<fichero2>,... > Seleccionar ficheros varios                                            # 
+                # ctrl+c --------------------------> Finalizar programa                                                     # 
+                # espacios ------------------------> Modificar los nombres de ficheros que contengan espacios en blanco     # 
+                # menu ----------------------------> Mostrar menu principal                                                 # 
+                # mover.todo ----------------------> Seleccionar todo lo contenido en el directorio actual                  # 
+                # mover.<tipo de fichero> ---------> Seleccionar los ficheros que correspondan al tipo de fichero ingresado #
+                # mover,<fichero1>,<fichero2>,... -> Seleccionar ficheros varios                                            # 
+                # salir ---------------------------> Finalizar programa                                                     # 
+                #############################################################################################################
+                Presione q para salir 
