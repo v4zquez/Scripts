@@ -18,7 +18,7 @@ if [[ $parametersNumber -gt $# ]]; then
 fi
 
 if [[ $# -eq $parametersNumber ]]; then
-    parametersNumber=$parametersNumber-1
+    let parametersNumber=$parametersNumber-1
 fi
 
 declare -i i=1
